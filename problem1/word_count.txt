@@ -1,0 +1,16 @@
+news : 84795
+editorial : 53111
+reviews : 34355
+religion : 34197
+hobbies : 70397
+lore : 95169
+belles_lettres : 149542
+government : 61043
+learned : 158868
+fiction : 57103
+mystery : 46637
+science_fiction : 11768
+adventure : 56694
+romance : 56867
+humor : 17785
+corpus : 988331
